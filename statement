@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <link href="styles.css" rel="stylesheet">
+  <title>Artist Statement</title>
+</head>
+
+<body>
+  <div id="page">
+   
+  <header>
+    <h1>Chelsea Palma</h1>
+    <h2>Visual Art and Design Major
+      <br>Siena College</h2>
+  </header>
+  <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Me</a></li>
+        <li><a href="statement.html">Artist Statement</a></li>
+        <li><a href="digital.html">Digital Work</a></li>
+        <li><a href="graphite.html">Graphite Work</a></li>
+        <li><a href="photos.html">Photography</a></li>
+      </ul>
+    </nav>
+
+    <h2>Artist Statement</h2>
+    <p>Fill in with artist statement</p>
+
+  <footer>Copyright &#169; 2023, <a href="mailto:cm27palm@siena.edu">Chelsea Palma</a>
+  </footer>
+
+    </div>
+  
+</body>
+
+</html>
