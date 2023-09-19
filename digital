@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Digital Work</title>
+    <link href="../styles.css" rel="stylesheet">
+   </head>
+  <body>
+    <div id="page">
+     
+     <header>
+    <h1>Chelsea Palma</h1>
+    <h2>Visual Art and Design Major
+      <br>Siena College</h2>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="../about.html">About Me</a></li>
+        <li><a href="../statement.html">Artist Statement</a></li>
+        <li><a href="../digital.html">Digital Work</a></li>
+        <li><a href="../graphite.html">Graphite Work</a></li>
+        <li><a href="../photos.html">Photography</a></li>
+      </ul>
+    </nav>
+
+     <div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="myFriends.jpg">
+      <img src="myFriends.jpg" alt="My Friends and I">
+    </a>
+    <div class="desc">My friends & I</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="Me2020.jpg">
+      <img src="Me2020.jpg" alt="me2020">
+    </a>
+    <div class="desc">My Portrait 2020</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="Boogie2020.jpg">
+      <img src="Boogie2020.jpg" alt="boogie2020">
+    </a>
+    <div class="desc">My Little Sister 2020</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="MeYou.jpeg">
+      <img src="MeYou.jpeg" alt="MyBF and I">
+    </a>
+    <div class="desc">My boyfriend & I</div>
+  </div>
+</div>
+
+      <div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="Nallelie.jpg">
+      <img src="Nallelie.jpg" alt="nallelie">
+    </a>
+    <div class="desc">Nallelie</div>
+  </div>
+</div>
+
+<div class="clearfix"></div>
+    
+  </body>
+ </html>
