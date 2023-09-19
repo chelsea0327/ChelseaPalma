@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>About & Contact</title>
+  <link href="styles.css" rel="stylesheet">
+</head>
+
+<body>
+  <div id="page">
+  <header>
+    <h1>Chelsea Palma</h1>
+    <h2>Visual Art and Design Major
+      <br>Siena College</h2>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About Me</a></li>
+      <li><a href="statement.html">Artist Statement</a></li>
+      <li><a href="digital.html">Digital Work</a></li>
+      <li><a href="graphite.html">Graphite Work</a></li>
+        <li><a href="photos.html">Photography</a></li>
+      </li>
+    </ul>
+  </nav>
+ 
+<h2 id="aboutMe">About Me & Contact Info</h2>
+    <div id="green">
+    <img src="GreenMe.jpg" alt="Green Me" height= "500">
+    </div>
+  <div id="about">
+    <h3>About Me</h3>
+    <p>Chelsea is currently a Undergraduate Senior at Siena college Majoring in Visual Arts & Design. The medias she works with tend to be digital and graphite mainly, but she will sometimes test out other mediums.</p>
+  </div>
+
+   <div id="contact">
+     <form action="https://wp.zybooks.com/form-viewer.php" method="post">
+    <fieldset>
+      <legend>Contact Info</legend>
+      <p>
+      <span class="email">Email: <a href = "mailto:cm27palm@siena.edu">cm27palm@siena.edu</a></span>
+      <br>
+      <span class="phone">Phone: (518) 379-7408</span>
+      <br>
+      </p>
+    </fieldset>
+      </div>
+
+      <div id="getintouch">
+  <form action="https://wp.zybooks.com/form-viewer.php" method="post">
+    <fieldset>
+      <legend>About Me</legend>
+      <p>
+        <label for="name">Name: </label>
+        <input type="text" name="name" id="name">
+<br>
+        <br>
+        <label for="email">Email: </label>
+        <input type="text" name="email" id="email">
+<br>
+        <br>
+        <label for="info">Context: </label>
+        <input type="text" name="info" id="info">
+        <br>
+        <br>
+        <input type="submit" value="Submit">
+      </p>
+    </fieldset>
+      </div>
+  </form>
+   
+</body>
+
+</html>
