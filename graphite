@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Digital Work</title>
+    <link href="../styles.css" rel="stylesheet">
+   </head>
+  <body>
+    <div id="page">
+     
+     <header>
+    <h1>Chelsea Palma</h1>
+    <h2>Visual Art and Design Major
+      <br>Siena College</h2>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="../about.html">About Me</a></li>
+        <li><a href="../statement.html">Artist Statement</a></li>
+        <li><a href="../digital.html">Digital Work</a></li>
+        <li><a href="../graphite.html">Graphite Work</a></li>
+        <li><a href="../photos.html">Photography</a></li>
+      </ul>
+    </nav>
+
+<div class="row">
+  <div class="column">
+    <img src="AlexGraphite.jpg">
+  </div>
+  <div class="column">
+    <img src="MyPortrait.jpg">
+  </div>
+  <!--
+  <div class="column">
+    <img src="wedding.jpg">
+    <img src="rocks.jpg">
+    <img src="falls2.jpg">
+    <img src="paris.jpg">
+    <img src="nature.jpg">
+    <img src="mist.jpg">
+    <img src="paris.jpg">
+  </div>
+  <div class="column">
+    <img src="underwater.jpg">
+    <img src="ocean.jpg">
+    <img src="wedding.jpg">
+    <img src="mountainskies.jpg">
+    <img src="rocks.jpg">
+    <img src="underwater.jpg">
+  </div>
+  -->
+</div>
+    
+  </body>
+ </html>
